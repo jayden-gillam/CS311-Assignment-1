@@ -1,0 +1,33 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+h1, h2 {
+    color: black;
+}
+
+nav a:visited, nav a:link {
+    color: red;
+}
+
+#about {
+    background-color: aqua;
+    margin: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+#index_body {
+    background-color: antiquewhite;
+    color: black;
+}
+
+#experience_body {
+    background-color: lightseagreen;
+}
+
+#education_body {
+    background-color: rgb(134, 42, 42);
+}
